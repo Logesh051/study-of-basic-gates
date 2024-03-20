@@ -1,4 +1,4 @@
-### study-of-basic-gates
+### Study Of Basic Gates
 
 **AIM:** 
 
@@ -64,16 +64,29 @@ Y= A⊕B
 
 **PROGRAM**
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by: RegisterNumber: 
+Developed by: Logesh.N.A
+RegisterNumber: 212223240078
+module exp1(a,b,d,c,e,h,i,f,g);
+input a,b;
+output d,c,e,h,i,f,g;
+assign d=a|b;
+assign c = a & b;
+assign e = ~(a & b);
+assign h = a ^ b;
+assign i = ~(a ^ b);
+assign f = ~(a | b);
+assign g = ~a;
+endmodule 
  
-**Logic symbol & Truthtable**
+**Truthtable**
+![image](https://github.com/Logesh051/study-of-basic-gates/assets/144979188/7cdd14bc-983b-45fd-b489-80172f87f7e6)
+
+**Timing Diagram**
+![image](https://github.com/Logesh051/study-of-basic-gates/assets/144979188/d1367b32-97b4-4094-916c-3d3a98463277)
 
 **RTL realization Output:** 
-
-**RTL**
+![Screenshot 2024-03-20 224837](https://github.com/Logesh051/study-of-basic-gates/assets/144979188/740bff50-b16d-4510-b290-026ec99adae8)
 
 **Result:**
-
+Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
 
