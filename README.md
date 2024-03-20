@@ -1,5 +1,6 @@
+### Name: Logesh.N.A
+### Register Number : 212223240078
 ### Study Of Basic Gates
-
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -63,7 +64,7 @@ Y= A⊕B
 
 
 **PROGRAM**
-
+```
 Developed by: Logesh.N.A
 RegisterNumber: 212223240078
 module exp1(a,b,d,c,e,h,i,f,g);
@@ -77,7 +78,7 @@ assign i = ~(a ^ b);
 assign f = ~(a | b);
 assign g = ~a;
 endmodule 
- 
+ ```
 **Truthtable**
 ![image](https://github.com/Logesh051/study-of-basic-gates/assets/144979188/7cdd14bc-983b-45fd-b489-80172f87f7e6)
 
