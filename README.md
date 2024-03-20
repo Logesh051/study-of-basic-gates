@@ -1,6 +1,8 @@
+### Study Of Basic Gates
+
 ### Name: Logesh.N.A
 ### Register Number : 212223240078
-### Study Of Basic Gates
+
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
