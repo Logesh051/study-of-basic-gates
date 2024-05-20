@@ -1,4 +1,4 @@
-### EX 01 Study Of Basic Gates
+# EX 01 Study Of Basic Gates
 
 ### Name: Logesh.N.A
 ### Register Number : 212223240078
